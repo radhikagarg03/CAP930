@@ -1,6 +1,18 @@
 n=int(input("enter the number:"))
 """
 This function is to print the star pattern in the fan's blade format
+
+OUTPUT:
+
+*      *****
+**    ****
+***  ***
+******
+*********
+      ******
+    ***  ***
+  ****    **
+*****      *
 """
 for i in range(1,n+1):
     if i==n:                                                        #It will print the straight line of the stars
