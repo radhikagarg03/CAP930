@@ -2,10 +2,10 @@ n=int(input("enter the number:"))
 """
 Output:
 **********
-****    ****
-***        ***
-**            **
-*                *
+****  ****
+***   ***
+**    **
+*     *
 """
 for i in range(0,n):
     
